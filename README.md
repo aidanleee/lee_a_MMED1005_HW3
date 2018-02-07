@@ -1,1 +1,5 @@
-# lee_a_MMED1005_HW3
+# HTML web based game for Starship Troopers anniversary edition
+
+Built with HTML5, CSS, JavaScript and an extra side of awesome
+
+Contributors: Aidan Lee
